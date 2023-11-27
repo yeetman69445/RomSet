@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<gameList>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>C555A97B</hash>
+		<ratio>auto</ratio>
+		<name>Ghoul Patrol</name>
+		<path>Ghoul Patrol.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541644">
+		<hash>07C494B1</hash>
+		<ratio>auto</ratio>
+		<name>Home Alone</name>
+		<path>Home Alone.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>8452CE98</hash>
+		<ratio>auto</ratio>
+		<name>Jurassic Park</name>
+		<path>Jurassic Park.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541644">
+		<hash>43EBA0B5</hash>
+		<ratio>auto</ratio>
+		<name>Lost Vikings 2</name>
+		<path>Lost Vikings 2.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>DF51283D</hash>
+		<ratio>auto</ratio>
+		<name>Lost Vikings</name>
+		<path>Lost Vikings.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541643">
+		<hash>3E65923D</hash>
+		<ratio>auto</ratio>
+		<name>Micro Machines</name>
+		<path>Micro Machines.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>B3025EA6</hash>
+		<ratio>auto</ratio>
+		<name>Mortal Kombat</name>
+		<path>Mortal Kombat.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>B0C8A8B4</hash>
+		<ratio>auto</ratio>
+		<name>NBA Jam - Tournament Edition</name>
+		<path>NBA Jam - Tournament Edition.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541643">
+		<hash>9780937A</hash>
+		<ratio>auto</ratio>
+		<name>Pit Fighter</name>
+		<path>Pit Fighter.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541647">
+		<hash>CE3E7D94</hash>
+		<ratio>auto</ratio>
+		<name>Pitfall - The Mayan Adventure</name>
+		<path>Pitfall - The Mayan Adventure.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>23234F9A</hash>
+		<ratio>auto</ratio>
+		<name>Prince of Persia</name>
+		<path>Prince of Persia.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>F3D4D943</hash>
+		<ratio>auto</ratio>
+		<name>Rock 'n' Roll Racing</name>
+		<path>Rock 'n' Roll Racing.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541644">
+		<hash>5756F698</hash>
+		<ratio>auto</ratio>
+		<name>Secret of Evermore</name>
+		<path>Secret of Evermore.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>D0176B24</hash>
+		<ratio>auto</ratio>
+		<name>Secret of Mana</name>
+		<path>Secret of Mana.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>91EB88B1</hash>
+		<ratio>auto</ratio>
+		<name>Sim City 2000</name>
+		<path>Sim City 2000.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>D59D4F39</hash>
+		<ratio>auto</ratio>
+		<name>Sim Earth - The Living Planet</name>
+		<path>Sim Earth - The Living Planet.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>02F091FD</hash>
+		<ratio>auto</ratio>
+		<name>Star Trek - Starfleet Academy Starship Bridge Simulator</name>
+		<path>Star Trek - Starfleet Academy Starship Bridge Simulator.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>F97EE5FC</hash>
+		<ratio>auto</ratio>
+		<name>Super Mario World 2 - Yoshi's Island</name>
+		<path>Super Mario World 2 - Yoshi's Island.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>A31BEAD4</hash>
+		<ratio>auto</ratio>
+		<name>Super Mario World</name>
+		<path>Super Mario World.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>1A60667E</hash>
+		<ratio>auto</ratio>
+		<name>Super Punch-Out!!</name>
+		<path>Super Punch-Out!!.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541645">
+		<hash>ECF79841</hash>
+		<ratio>auto</ratio>
+		<name>Super Strike Eagle</name>
+		<path>Super Strike Eagle.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>F37840B8</hash>
+		<ratio>auto</ratio>
+		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time</name>
+		<path>Teenage Mutant Ninja Turtles IV - Turtles in Time.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>F729B19E</hash>
+		<ratio>auto</ratio>
+		<name>Terminator 2 - Judgment Day</name>
+		<path>Terminator 2 - Judgment Day.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541643">
+		<hash>96E84657</hash>
+		<ratio>auto</ratio>
+		<name>The Terminator</name>
+		<path>The Terminator.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>678561A9</hash>
+		<ratio>auto</ratio>
+		<name>The Lord of the Rings - Volume One</name>
+		<path>The Lord of the Rings - Volume One.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>BBF6AFB9</hash>
+		<ratio>auto</ratio>
+		<name>Ultimate Mortal Kombat 3</name>
+		<path>Ultimate Mortal Kombat 3.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>7CFC0C7C</hash>
+		<ratio>auto</ratio>
+		<name>Zombies Ate My Neighbors</name>
+		<path>Zombies Ate My Neighbors.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541644">
+		<hash>762AF827</hash>
+		<lastplayed>19800101T032550</lastplayed>
+		<playcount>1</playcount>
+		<ratio>auto</ratio>
+		<name>Donkey Kong Country</name>
+		<path>Donkey Kong Country.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>CDBBF300</hash>
+		<ratio>auto</ratio>
+		<name>Donkey Kong Country 2 - Diddy's Kong Quest</name>
+		<path>Donkey Kong Country 2 - Diddy's Kong Quest.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>E35A8F19</hash>
+		<ratio>auto</ratio>
+		<name>International Superstar Soccer</name>
+		<path>International Superstar Soccer.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>14FDCFB9</hash>
+		<ratio>auto</ratio>
+		<name>JRR Tolkien's The Lord of the Rings - Volume 1</name>
+		<path>JRR Tolkien's The Lord of the Rings - Volume 1.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>DD42510E</hash>
+		<ratio>auto</ratio>
+		<name>The Legend of Zelda - A Link to the Past</name>
+		<path>The Legend of Zelda - A Link to the Past.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>0A6EAB29</hash>
+		<ratio>auto</ratio>
+		<name>Mortal Kombat 2</name>
+		<path>Mortal Kombat 2.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>BBD678F6</hash>
+		<ratio>auto</ratio>
+		<name>Plok!</name>
+		<path>Plok!.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>DE8FE3E8</hash>
+		<ratio>auto</ratio>
+		<name>The Ren &amp; Stimpy Show - Time Warp</name>
+		<path>The Ren &amp; Stimpy Show - Time Warp.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>A893E64B</hash>
+		<ratio>auto</ratio>
+		<name>The Ren &amp; Stimpy Show - Veediots</name>
+		<path>The Ren &amp; Stimpy Show - Veediots.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>37671601</hash>
+		<ratio>auto</ratio>
+		<name>Sim Ant</name>
+		<path>Sim Ant.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541643">
+		<hash>82C62927</hash>
+		<ratio>auto</ratio>
+		<name>Sim City</name>
+		<path>Sim City.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>93C4E4BB</hash>
+		<ratio>auto</ratio>
+		<name>The Simpsons - Bart's Nightmare</name>
+		<path>The Simpsons - Bart's Nightmare.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541649">
+		<hash>301CA282</hash>
+		<ratio>auto</ratio>
+		<name>Star Trek - Deep Space Nine - Crossroads of Time</name>
+		<path>Star Trek - Deep Space Nine - Crossroads of Time.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>E01E73CB</hash>
+		<ratio>auto</ratio>
+		<name>Star Trek - The Next Generation - Future's Past</name>
+		<path>Star Trek - The Next Generation - Future's Past.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>1B8A0625</hash>
+		<ratio>auto</ratio>
+		<name>Super Mario RPG - Legend of the Seven Stars</name>
+		<path>Super Mario RPG - Legend of the Seven Stars.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541641">
+		<hash>49F841D8</hash>
+		<ratio>auto</ratio>
+		<name>Super Star Wars - Return of the Jedi</name>
+		<path>Super Star Wars - Return of the Jedi.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541640">
+		<hash>CB269A45</hash>
+		<ratio>auto</ratio>
+		<name>Super Star Wars - The Empire Strikes Back</name>
+		<path>Super Star Wars - The Empire Strikes Back.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541646">
+		<hash>D2644905</hash>
+		<ratio>auto</ratio>
+		<name>Super Star Wars</name>
+		<path>Super Star Wars.smc</path>
+	</game>
+	<game source="Recalbox" timestamp="315541644">
+		<hash>8F6A918B</hash>
+		<ratio>auto</ratio>
+		<name>Super Street Fighter II - The New Challengers</name>
+		<path>Super Street Fighter II - The New Challengers.smc</path>
+	</game>
+</gameList>
